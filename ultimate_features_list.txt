@@ -1,0 +1,20 @@
+Academic Pressure
+Financial Stress
+Dietary Habits_Unhealthy
+Age
+Work/Study Hours
+Study Satisfaction
+Dietary Habits_Moderate
+Sleep Duration_More than 8 hours
+Sleep Duration_Less than 5 hours
+Family History of Mental Illness_Yes
+City_Agra
+City_Bhopal
+City_Ahmedabad
+CGPA
+City_Hyderabad
+Gender_Male
+City_Jaipur
+Degree_B.Com
+City_Nashik
+Pressure_Finance_Multiplier
